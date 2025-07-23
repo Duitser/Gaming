@@ -2,15 +2,14 @@
 body {
     font-family: 'Inter', sans-serif;
     margin: 0;
-    padding: 0;
-    background: #f8f9fb;
-    color: #1c1e21;
+    background: #f9fafc;
+    color: #1a1a1a;
 }
 
 .navbar {
     position: sticky;
     top: 0;
-    background: #ffffff;
+    background: white;
     box-shadow: 0 2px 6px rgba(0,0,0,0.05);
     display: flex;
     justify-content: space-between;
@@ -20,7 +19,7 @@ body {
 }
 
 .navbar .logo {
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     font-weight: bold;
     color: #007acc;
     text-decoration: none;
@@ -41,12 +40,12 @@ header.hero {
     background: linear-gradient(120deg, #007acc, #61dafb);
     color: white;
     text-align: center;
-    padding: 80px 20px;
+    padding: 60px 20px;
 }
 
 header.hero h1 {
     margin: 0;
-    font-size: 2.2rem;
+    font-size: 2rem;
 }
 
 header.hero p {
@@ -55,7 +54,7 @@ header.hero p {
 }
 
 header.subheader {
-    background: #eceff1;
+    background: #f0f3f7;
     text-align: center;
     padding: 30px 20px;
 }
@@ -63,17 +62,23 @@ header.subheader {
 main {
     max-width: 1200px;
     margin: auto;
-    padding: 30px 20px;
+    padding: 40px 20px;
 }
 
-.intro h2 {
-    font-size: 1.4rem;
+.why {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.why h2 {
+    font-size: 1.5rem;
     margin-bottom: 10px;
 }
 
-.intro p {
-    font-size: 1rem;
-    color: #555;
+.categories h2 {
+    text-align: center;
+    font-size: 1.4rem;
+    margin-bottom: 20px;
 }
 
 .grid {
@@ -93,7 +98,7 @@ main {
 }
 
 .card:hover {
-    transform: translateY(-5px);
+    transform: translateY(-6px);
 }
 
 .card img {
@@ -102,7 +107,7 @@ main {
     object-fit: cover;
 }
 
-.card h2 {
+.card h3, .card h2 {
     font-size: 1.1rem;
     margin: 10px 0 5px;
 }
@@ -130,7 +135,7 @@ main {
 
 footer {
     text-align: center;
-    padding: 25px;
+    padding: 30px 15px;
     font-size: 0.9rem;
     background: #f0f0f0;
     margin-top: 60px;
