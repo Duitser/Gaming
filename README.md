@@ -1,7 +1,7 @@
 
-# Gaming Affiliate Website (V3)
+# Gaming Affiliate Website (V4)
 
-Strakke visuele versie met moderne styling, mobiele ondersteuning en nette layout.
+Premium versie met sticky navigatie, chique stijl, en volledige pagina-navigatie.
 
 ## Publiceren op GitHub Pages
 1. Upload alle bestanden naar een public GitHub repository.
