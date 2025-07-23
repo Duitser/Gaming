@@ -1,12 +1,10 @@
 
-# Gaming Affiliate Website (V2)
+# Gaming Affiliate Website (V3)
 
-Visueel verbeterde versie met afbeeldingen en responsive layout.
+Strakke visuele versie met moderne styling, mobiele ondersteuning en nette layout.
 
 ## Publiceren op GitHub Pages
-1. Upload alle bestanden naar een GitHub repository (zorg dat deze Public is).
+1. Upload alle bestanden naar een public GitHub repository.
 2. Ga naar Settings > Pages.
-3. Kies de 'main' branch en root (/).
-4. De site komt live op: https://gebruikersnaam.github.io/reponame
-
-Knoppen zijn klaar voor affiliate links.
+3. Kies 'main' branch en root folder.
+4. Klaar! De site komt live op: https://gebruikersnaam.github.io/reponame
